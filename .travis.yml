@@ -7,7 +7,8 @@ node_js:
 #运行的脚本命令
 before_script:
   - npm install -g gulp-cli
-script: gulp
+script: 
+  - gulp
   - npm run codecov
 
 #指定分支，只有指定的分支提交时才会运行脚本
