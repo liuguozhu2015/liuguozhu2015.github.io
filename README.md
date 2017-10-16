@@ -1,4 +1,6 @@
 # john-base.github.io
+
+[![Join the chat at https://gitter.im/john-base-github-io/Lobby](https://badges.gitter.im/john-base-github-io/Lobby.svg)](https://gitter.im/john-base-github-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![](https://travis-ci.org/John-Base/john-base.github.io.svg?branch=master)](https://travis-ci.org/John-Base/john-base.github.io)
 
 [![codecov](https://codecov.io/gh/John-Base/john-base.github.io/branch/master/graph/badge.svg)](https://codecov.io/gh/John-Base/john-base.github.io)
